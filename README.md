@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects you're working on.
 - 🤔 I’m looking for help with learning more JavaScript
 - 💬 Ask me about how I did in school
-- 📫 How to reach me: [link text] (j.obrien0394@gmail.com), [502-794-2589] (tel:+15027942589)
+- 📫 How to reach me: j.obrien0394@gmail.com, [502-794-2589] (tel:+15027942589)
 - 😄 Pronouns: He/Him
 - ⚡ JavaScript Fun fact: JavaScript was created in 10 days only! Quite Interesting right? Yes, Eich took only 10 days to create JavaScript
 and when released, it used to cover a very small portion of a proper programming language.
