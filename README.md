@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 -->
-- 🔭 I’m currently working on [link text] (https://github.com/Jobrien0394/Jeopardy-Trivia-Game)
+- 🔭 I’m currently working on https://github.com/Jobrien0394/Jeopardy-Trivia-Game
 - 🌱 I’m currently learning more about JavaScript, C++, and Unity
 - 👯 I’m looking to collaborate on projects you're working on.
 - 🤔 I’m looking for help with learning more JavaScript
