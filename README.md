@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 
 -->
-- 🔭 I’m currently working on https://github.com/Jobrien0394/Jeopardy-Trivia-Game
-- 🌱 I’m currently learning more about JavaScript, C++, and Unity
+- 🔭 I’m currently working on my form for an apprenticeship at Fetch Rewards and I'm working on recreating super mario bros. (NES) using npm packages.
+- 🌱 I’m currently learning more about JavaScript, C++, and Unity. As well as Machine Learning.
 - 👯 I’m looking to collaborate on projects you're working on.
 - 🤔 I’m looking for help with learning more JavaScript
 - 💬 Ask me about how I did in school
