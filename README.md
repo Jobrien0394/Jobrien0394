@@ -29,7 +29,7 @@ and when released, it used to cover a very small portion of a proper programming
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Jobrien0394)
 
 Social:
-![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)] (https://facebook.com/evilpoptart99)
+![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) ] (https://facebook.com/evilpoptart99)
 ![Xbox](https://img.shields.io/badge/Xbox-107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
