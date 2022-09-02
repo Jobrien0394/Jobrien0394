@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 
 -->
-- 🔭 I’m currently working on the computer science course through coursera and I'm working on recreating super mario bros. (NES) using npm packages.
+- 🔭 I’m currently working on nothing
 
-- 🌱 I’m currently learning more about JavaScript, C++, and Unity. As well as, Java and Software Development.
+- 🌱 I’m currently learning more about JavaScript and Game Design with Unreal Engine 4.
 
 - 👯 I’m looking to collaborate on projects you're working on or more ideas for a web app/software.
 
