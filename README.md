@@ -30,9 +30,8 @@ and when released, it used to cover a very small portion of a proper programming
 
 Social:
 ![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)(https://facebook.com/evilpoptart99)
-![Xbox](https://img.shields.io/badge/Xbox-107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white)
+![Xbox](https://img.shields.io/badge/Xbox-107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white)(https://xbox.com/Evilpoptart373)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)
 
